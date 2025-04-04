@@ -86,5 +86,3 @@ java ChildrenMathLearningSystem
 - **Won’t Start?** Ensure all 10 `.java` files are present and compiled.  
 - **No Feedback?** Enter numbers, not text, for answers.  
 - **Missing Progress?** Load `progress.dat` from the menu.
-
----
